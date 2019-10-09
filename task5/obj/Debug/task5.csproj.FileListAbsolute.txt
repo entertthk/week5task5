@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\5tasks\task5\bin\Debug\task5.exe.config
+C:\Users\Laptop\Desktop\5tasks\task5\bin\Debug\task5.exe
+C:\Users\Laptop\Desktop\5tasks\task5\bin\Debug\task5.pdb
+C:\Users\Laptop\Desktop\5tasks\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\5tasks\task5\obj\Debug\task5.exe
+C:\Users\Laptop\Desktop\5tasks\task5\obj\Debug\task5.pdb

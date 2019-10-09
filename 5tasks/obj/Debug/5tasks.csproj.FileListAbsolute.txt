@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\5tasks\5tasks\bin\Debug\5tasks.exe.config
+C:\Users\Laptop\Desktop\5tasks\5tasks\bin\Debug\5tasks.exe
+C:\Users\Laptop\Desktop\5tasks\5tasks\bin\Debug\5tasks.pdb
+C:\Users\Laptop\Desktop\5tasks\5tasks\obj\Debug\5tasks.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\5tasks\5tasks\obj\Debug\5tasks.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\5tasks\5tasks\obj\Debug\5tasks.exe
+C:\Users\Laptop\Desktop\5tasks\5tasks\obj\Debug\5tasks.pdb
